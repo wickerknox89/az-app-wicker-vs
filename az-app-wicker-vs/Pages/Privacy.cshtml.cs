@@ -14,6 +14,11 @@ namespace az_app_wicker_vs.Pages
 
         public void OnGet()
         {
+            throw new Exception("Testing Insights");
         }
     }
 }
+
+
+
+
